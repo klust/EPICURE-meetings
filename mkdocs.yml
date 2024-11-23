@@ -1,4 +1,4 @@
-site_name: "Landing pages of Kurt Lust"
+site_name: "EPICURE corss-WP meetings"
 site_url: https://klust.github.io/EPICURE-meetings
 site_dir: site
 site_description: >-
@@ -25,6 +25,8 @@ theme:
 nav:
  - Brussels 2024: 
     - 20241202-Brussels/index.md
+    - Good food: 20241202-Brussels/where_to_eat.md
+    - Good beer: 20241202-Brussels/where_to_drink.md
 
 plugins:
   # show revision date at bottom of each page
@@ -32,8 +34,8 @@ plugins:
   # redirects for shorter entries to pages in subsites.
   - redirects:
       redirect_maps:
-          EPICURE.md: https://klust.github.io/EPICURE-meetings/20241202-Brussels
-          EPICURE2024.md: https://klust.github.io/EPICURE-meetings/20241202-Brussels
+          EPICURE.md: https://klust.github.io/EPICURE-meetings/20241202-Brussels/
+          EPICURE2024.md: https://klust.github.io/EPICURE-meetings/20241202-Brussels/
 
 markdown_extensions:
   - meta
