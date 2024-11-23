@@ -27,6 +27,7 @@ nav:
     - 20241202-Brussels/index.md
     - Good food: 20241202-Brussels/where_to_eat.md
     - Good beer: 20241202-Brussels/where_to_drink.md
+    - Light breakfast: 20241202-Brussels/breakfast.md
 
 plugins:
   # show revision date at bottom of each page

@@ -36,6 +36,8 @@ likely contactless payment with your bank or credit card or certain smartphone p
 
 -   [Curing mental distress after a hard day of work](where_to_drink.md)
 
+-   [Need a quick breakfast?](breakfast.md)
+
 -   See also [this map on Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1CHURBGrKZ8QyHro8hXZe70QjZ52bvI4&usp=sharing)
     for the restaurants and bars mentioned in the previous links.
 
