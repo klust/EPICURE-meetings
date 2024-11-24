@@ -58,17 +58,21 @@ Of course, we could never agree on how to do it, and there were two proposals.
 The Dutch speaking wanted to split Belgium according to language in 3 communities,
 while the French speaking wanted a division in three non-overlapping regions: Wallonia,
 Flanders and the Brussels Capital Region. Each structure with its own parliament and 
-government.
+government. At least five of those provide funding for scientific research,
+depending on where the research is done and what type of research it is. 
+This is what makes it so difficult to set up international projects involving 
+Belgium. For LUMI, 4 governments in Belgium collaborated: the federal government and
+the three regions.
 
 In Flanders we rationalised quickly and merged the parliaments for the Dutch speaking
 community and Flanders into one, which you see **click** here. It is also almost 
-right next to our venue. So we've already found three parliaments in Brussels.
+very close to our venue. So we've already found three parliaments in Brussels.
 
 But there is more. **click** Here you see the parliament of the French-speaking
 community and **click** here is the parliament of the Brussels Capital Region.
 
 So we've already found five parliaments but obviously we're still missing some
-if we look at the subdivision of Brussels. Moreover, 7 is a biblical number and not 
+if we look at the subdivision of Belgium. Moreover, 7 is a biblical number and not 
 5 and Belgium has a history as a catholic country.
 
 **next slide**
@@ -122,8 +126,8 @@ which was actually rented, and the renovation hardly proceeded until recently.
 Before they could restart the renovation works, the scaffolding itself had to
 be renovated as it was not safe for use anymore. The work is now expected
 to take until around 2040. However, from the square in front of the Palace of Justice,
-you have a good view over Brussels, so it may be worth walking to there and
-then take the elevator to go back to the lower parts. There is also a ferris
+you have a good view over Brussels, so it may be worth walking to this place and
+then take the elevator to go back to the lower parts of the city. There is also a ferris
 wheel that can give you an even better view. From there you'll also see
 a monumental church, the Koekelberg Basilica, which is said to be the fifth
 largest Christian church in the world. Planning and early construction
@@ -144,11 +148,15 @@ a way to distribute drinking water.
 
 There are many legends surrounding this statue, one claiming that it
 was in honour of a little boy saving the city by peeing from the city walls
-on a fuse from a charge of gunpowder and thus saved the city.
+on a fuse from a charge of gunpowder.
 It is actually more likely that the statue was simply made in honour
 of the leather tanneries in that area of Brussels. In those days,
 human urine was used as a source of ammonia needed for the tanning 
 process, and children's pee was preferred.
+
+To find it, start at the Grande-Place and take the street just left of the city hall, 
+the building with the nice tower, and
+simply follow the crowd.
 
 **click** In 1987 some salesmen in a dead end street commissioned a 
 statue of a little girl peeing, to attract more people to their street.
@@ -176,7 +184,8 @@ be interested in finding good places to eat.
 
 There are a few nice areas in Brussels with a high density of restaurants.
 Of course, wherever there are many restaurants, there are good and bad ones,
-so it may be worth to check the reviews. We'll walk through some areas,
+so it may be worth to check the reviews on , for instance, Google Maps. 
+We'll walk now through some interesting areas,
 but I've also made a list of recommendations and will discuss some of these
 also.
 
@@ -212,8 +221,9 @@ or Rue des Bouchers as a street worth visiting for restaurants. This street
 and its extension, the Rue Gétry, is probably the biggest tourist trap
 of Brussels when it comes to food. There are some honest and good places,
 and even an excellent one, but be very careful. Most of the cheap places
-are dishonest and ones you get inside, you may see a completely different
+are dishonest and once you get inside, you may see a completely different
 and higher priced menu. And the quality is sometimes very low.
+
 The restaurant for the group dinner is in that street. It is one of the better
 businesses in that street, but was also chosen because on Monday evening
 there are not that many restaurants in Brussels that can house a group
@@ -225,8 +235,10 @@ two closing days, typically on Sunday, Monday or Tuesday.
 consider the restaurants in or near the Kaasmarkt or Marché aux Fromages.
 They are certainly not the best ones in Brussels, but in many of them
 you do get very good value for the money taking into account that this is Brussels.
+
 The Wolf food court which I did not show on this map could also be
 an option, though there also not all stalls have the same quality.
+
 Or you could just try one of the many stalls on the winter market as we
 are December.
 
@@ -241,7 +253,8 @@ Rue Marché aux Charbon. It is more towards the Fontainas square. Especially
 the daily specials can be very good. The place is closed on Tuesday though.
 
 **click** If you are still thirsty after the meal, you can visit Moeder Lambic
-Fontainas on the Fontainas square. This is a nice beer bar, and many of the 
+Fontainas on the Fontainas square, just a one minute walk from Café Charbon. 
+This is a nice beer bar, and many of the 
 people behind the bar are very helpful when selecting beers.
 Order at the bar in this place.
 
@@ -265,10 +278,10 @@ a good place for a local beer. Order at the bar in this place.
 Fin de Sciècle, not too far from the stock exchange.
 It is a relatively low-priced restaurant. Don't expect a fancy interior,
 but it is very authentic. It is also a good place to have some very Belgian
-dishes, including the "stoemp saucisses" which is popular in Brussels.
+dishes, including the "stoemp saucisses" which is very popular in Brussels.
 This is a dish of mashed potatos mixed with vegetables with saussages. 
 It looks like the place is currently recommended in many tourist guides as
-it has become extrememely busy. There is often a long waiting line to get
+it has become extremely busy. There is often a long waiting line to get
 a seat and the place does not take reservations. The nearby restaurant
 "9 et voisins" can be a nice alternative with similar food.
 
@@ -278,7 +291,7 @@ It is at the location of a former monastery. It is a bit more classy.
 Tables are a bit further apart. Prices are however very reasonable,
 especially given that the quality of the food is generally very good.
 
-**click** And if you're still thirsty afterwards, take the door to the
+**click** And if you're still thirsty afterwards, take the door at the 
 left of the front door of the restaurant that takes you down into a 
 basement, likely the former basements of the monastery. It houses a
 nice beer bar. Order at the bar, and it may be worth to also check
@@ -307,7 +320,7 @@ The waffle has a regular rectangular shape, because the liquid dough easily
 fills the entire waffle iron. However, the waffle has to be eaten very 
 fresh and cannot really be reheated. Enter the gauffre de Liège.
 This one is made from a drier dough that is pressed between the waffle iron.
-As a result, it has a more irregular shape. It it also much denser
+As a result, it has a more irregular shape. It is also much denser
 and contains a lot more sugar. But it can be reheated which makes it
 so popular at the many waffle stands in the tourist centre.
 As the Brussels waffle is so hard to make, it has in fact become very 
@@ -328,7 +341,7 @@ it is likely not true, or at least you get very small portions,
 or an inferior quality of ingredients is used, or they try to get a 
 very quick rotation, trying to get you out of the place in 20 minutes 
 or half an hour. And often it is a combination of two or more of these.
-Some of these places will still give you good value for more, but don't
+Some of these places will still give you good value for money, but don't
 expect more than you pay for.
 
 **next slide**
@@ -364,7 +377,7 @@ taproom and brew some special beers. Check the opening days though as
 it is not always open.
 
 They also have a second taproom at the Avenue Louise, once a famous shopping
-street, though the bar is a bit further down the street. 
+street, though the bar is a bit further down the street past the shopping area. 
 It is called Brussels Beer Project Bailli and can be reached easily with
 the tram from near the meeting venue.
 
@@ -428,7 +441,7 @@ on squares further down the big lane passing in front of the stock exchange,
 and on the Place Sainte Catherine and nearby Vismarkt or Marché aus Poissons,
 which is actually the largest part of the market.
 
-The surrounding streets are actually also beautifully illuminated at this time
+The surrounding streets are also beautifully illuminated at this time
 of the year.
 
 **next slide**
