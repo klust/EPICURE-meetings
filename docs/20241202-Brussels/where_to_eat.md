@@ -188,3 +188,29 @@ Personal favourites of the author of this text:
     The entrance is next door and the bar is in the basement of the restaurant.
 
 All are discussed in more detail earlier in this page.
+
+
+## Belgian fries
+
+I haven't found any Belgian fries shop in Brussels that prepare their fries
+100% as it should (swimming in beef fat, not in a basket). However, 
+the last suggestion below is certainly worth a visit if you want to snack
+rather than to eat.
+
+Tourist guides will often point you to two fries shops close to the 
+former stock exchange. Long lines are the result, but in fact, I don't
+like their fries too much:
+
+-   [Fritland](http://www.fritlandbrussels.be/) ([Henri Mausstraat 49](https://maps.app.goo.gl/i9LD76zRKSKxe3Nw6))
+    with limited seating inside.
+
+-   Frituur Tabora ([Taborastraat 2](https://maps.app.goo.gl/oH8SHJWuP8ycRKma9))
+    with not seating inside.
+
+My favourite instead:
+
+-   Fritkot Chouke ([Oude Graanmarkt/Vieu Marché aux Grains 23](https://maps.app.goo.gl/W6Ryk8boV2i13fqH6)):
+    Way more authentic than the previous two, but unfortunately no seating inside.
+    Order a "fries with stoofvlees saus" for the full experience of Belgian fries
+    from a "frietkot".
+
