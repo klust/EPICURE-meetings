@@ -1,5 +1,8 @@
 # Transcript of the video
 
+<iframe width="784" height="441" src="https://www.youtube.com/embed/LP-7q5ZDkLY?si=m7o0YwhR_Mwi11g6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 Welcome to Belgium and to Brussels.
 
 Let me use some of your time to convince you that Belgium is a truly fascinating

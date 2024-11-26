@@ -32,6 +32,9 @@ likely contactless payment with your bank or credit card or certain smartphone p
 
 ## A brief introduction to Belgian culture
 
+<iframe width="784" height="441" src="https://www.youtube.com/embed/LP-7q5ZDkLY?si=m7o0YwhR_Mwi11g6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- https://youtu.be/LP-7q5ZDkLY 560x315 -->
+
 -   [In Belgium, we discuss tough problems at the dinner table, not in a meeting room, zoom session or a sauna](where_to_eat.md)
 
 -   [Curing mental distress after a hard day of work](where_to_drink.md)
@@ -41,3 +44,4 @@ likely contactless payment with your bank or credit card or certain smartphone p
 -   See also [this map on Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1CHURBGrKZ8QyHro8hXZe70QjZ52bvI4&usp=sharing)
     for the restaurants and bars mentioned in the previous links.
 
+-   [Transcript of the video](transcript.md)
