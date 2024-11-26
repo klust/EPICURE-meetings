@@ -176,7 +176,8 @@ the building with the nice tower, and
 simply follow the crowd.
 
 **click** In 1987 some salesmen in a dead end street commissioned a 
-statue of a little girl peeing, called["Jeanneke-Pis"](https://maps.app.goo.gl/ayiho5TBqqizrDhu8), 
+statue of a little girl peeing, called
+["Jeanneke-Pis"](https://maps.app.goo.gl/ayiho5TBqqizrDhu8), 
 to attract more people to their street.
 It did work and one side of the street is now basically a giant 
 and very touristic Belgian beer bar. 
@@ -208,13 +209,14 @@ but I've also made a list of recommendations and will discuss some of these
 also.
 
 **click** A first interesting area are a couple of streets close to the
-[]"Halles Saint-Géry"](https://maps.app.goo.gl/RYT2EutE8F4PcVix5) and actually also close to the 
+["Halles Saint-Géry"](https://maps.app.goo.gl/RYT2EutE8F4PcVix5) and actually also close to the 
 [former stock exchange, called "Beurs" in Dutch or "Bourse" in French](https://maps.app.goo.gl/q4CKRRaC7BbfgBcs9). 
 You'll also find a couple
 of Asian restaurants there which may be the best choice for vegetarians
 as many restaurants offer very few vegetarian dishes, let alone vegan food.
 
-**click** The Place Sainte Catherine and the surrounding streets also
+**click** The [Place Sainte Catherine](https://maps.app.goo.gl/yD5ATZSvbfZnKkSe7) 
+and the surrounding streets also
 house many restaurants. Don't try the cheaper fish restaurants though
 at the corner of the huge square called Vismarkt or Marché aux Poissons,
 they are really too cheap to be OK.
@@ -288,7 +290,7 @@ people behind the bar are very helpful when selecting beers.
 Order at the bar in this place.
 
 **click** An option both on Sunday and Tuesday evening, is 
-[la Porteuse d'Eau](https://maps.app.goo.gl/bCgkTaggU9Gek4QB9).
+[la Porteuse d'Eau](https://maps.app.goo.gl/RUEv7GN5UfNEnEhF6).
 This place is just outside the Pentagon, so it takes some walking, and some
 of the streets you walk through may feel a bit dark. The restaurant is well 
 worth a visit though. It is in an Art Nouveau building. Though the building is
@@ -486,7 +488,7 @@ across several areas in the pentagon: Around the
 [former stock exchange](https://maps.app.goo.gl/9qPWYt9FtN7GtftJ8),
 on squares further down the big lane passing in front of the stock exchange
 ([Muntplein](https://maps.app.goo.gl/zBJMEKkfdbbFvw46A) en
-[Brouckère](https://maps.app.goo.gl/zBJMEKkfdbbFvw46A)),
+[Brouckère](https://maps.app.goo.gl/v2AgxYwXqHMwWTxD8)),
 and on the [Place Sainte-Catherine](https://maps.app.goo.gl/ZYvHikD245pHTiTcA) 
 and nearby [Vismarkt or Marché aus Poissons](https://maps.app.goo.gl/1spquHHwHDmrwwuM6),
 which is actually the largest part of the market.
